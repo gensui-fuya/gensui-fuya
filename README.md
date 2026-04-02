@@ -1,16 +1,32 @@
-## Hi there 👋
+# 浮夜 · 水月
 
-<!--
-**gensui-fuya/gensui-fuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 亦照古阳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 当前
+
+- 普通高中生，在有限的网络与时间里构建自己的系统
+- 主力设备：ThinkPad X230 / Arch Linux / niri (Wayland) / kitty / vim
+- 偏爱老硬件的可控性，喜欢折腾到每一处配置
+
+### 🔭 兴趣方向
+
+- 网络原理 & 出口策略
+- 底层机制、系统设计逻辑
+- Python / Rust（缓慢但持续）
+- 嵌入式小玩具（STM32, ESP8266）
+- 安全方向的渗透感
+
+### 🧩 状态
+
+- 探索速度 > 能力沉淀速度 —— 正在学习压缩方向，完成第一个闭环项目
+- 博客尚未搭建，但构想已久
+- 想理解“系统为什么这样设计”，而不只是使用工具
+
+### 🌙 签名
+
+```text
+suigetsu —— 水月
+fuya —— 浮雅
+连字符是水面的一痕
